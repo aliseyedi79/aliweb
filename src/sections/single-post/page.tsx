@@ -121,7 +121,7 @@ export default function BlogPost({
                 height: 500,
                 display: 'block',
                 objectFit: 'cover',
-                objectPosition: 'top',
+                objectPosition: 'center',
               }}
               priority
             />
