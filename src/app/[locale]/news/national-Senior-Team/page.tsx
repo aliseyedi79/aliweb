@@ -10,7 +10,7 @@ export default function Post1() {
     <BlogPost
       title={t('title')}
       excerpt={t('excerpt')}
-      featuredImage="/Gallery/12.jpg"
+      featuredImage="/12.jpg"
       author={t('author')}
       publishedAt={t('publishedAt')}
       readTime={t('readTime')}
